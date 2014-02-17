@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyBadge</string>
+    <string name="action_settings">Settings</string>
+    <string name="badge_in">Badge In</string>
+    <string name="badge_out">Badge Out</string>
+    <string name="last_in">Last In:</string>
+    <string name="balance">Balance:</string>
+
+</resources>
